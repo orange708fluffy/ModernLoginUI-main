@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319680095871",
+    "project_id": "cs-ia2",
+    "storage_bucket": "cs-ia2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319680095871:android:1617f390003aa6e1b1414a",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319680095871-9u0ij62i74rr2lqad3casetdvlhdl9p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDekaCdGsum2kHx8XFUBXu4c3SSda6p2sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319680095871-9u0ij62i74rr2lqad3casetdvlhdl9p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
